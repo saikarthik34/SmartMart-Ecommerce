@@ -1,0 +1,28 @@
+# Node / Angular
+node_modules/
+angularapp/node_modules/
+angularapp/dist/
+.angular/
+coverage/
+
+# Java / Maven
+springapp/target/
+**/target/
+*.class
+
+# IDE and OS files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+
+# Logs and local environment
+*.log
+springapp/logs/
+.env
+.env.*
+!.env.example
+
+# Local Spring configuration may contain credentials
+springapp/src/main/resources/application-local.properties
