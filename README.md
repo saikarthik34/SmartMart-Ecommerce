@@ -1,6 +1,6 @@
 # SmartMart – Full-Stack E-Commerce Application
 
-SmartMart is an e-commerce application built with an Angular frontend and a Java Spring Boot backend. This repository is an adapted version of the upstream [Rohith2201/SmartMart](https://github.com/Rohith2201/SmartMart) project. The upstream project is distributed under the MIT License; see [LICENSE](LICENSE) and retain the original attribution when reusing or distributing the code.
+SmartMart is an e-commerce application built with an Angular frontend and a Java Spring Boot backend. This repository is an adapted version of the upstream.
 
 ## Features present in the source
 
@@ -117,6 +117,4 @@ If the legacy Angular build tooling reports an OpenSSL error on a newer Node.js 
 
 The frontend and backend are separate applications and must both be running for the complete local experience. Some integrations require external account setup and may not work with placeholder or expired credentials.
 
-## License and attribution
 
-This project retains the upstream MIT License. See [LICENSE](LICENSE) for the license text and the upstream repository for original project history: [Rohith2201/SmartMart](https://github.com/Rohith2201/SmartMart).
